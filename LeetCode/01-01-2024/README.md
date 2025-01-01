@@ -1,4 +1,4 @@
-# [Maximum Score After Splitting a String]()
+# [Maximum Score After Splitting a String](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/01-01-2024/Solution.java)
 # Problem Statement
 
 Given a string  `s` of zeros and ones,  _return the maximum score after splitting the string into two  **non-empty**  substrings_  (i.e.  **left**  substring and  **right**  substring).
