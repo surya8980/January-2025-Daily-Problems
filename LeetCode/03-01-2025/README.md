@@ -1,4 +1,4 @@
-# [Number of Ways to Split Array](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/03-01-2024/Number%20of%20Ways%20to%20Split%20Array.java)
+# [Number of Ways to Split Array](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/03-01-2025/Number%20of%20Ways%20to%20Split%20Array.java)
 # Problem Statement:
 
 You are given a  **0-indexed**  integer array  `nums`  of length  `n`.
