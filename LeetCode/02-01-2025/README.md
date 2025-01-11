@@ -1,4 +1,4 @@
-# [Count Vowel Strings in Ranges](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/02-01-2024/Count%20Vowel%20Strings%20in%20Ranges.java)
+# [Count Vowel Strings in Ranges](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/02-01-2025/Count%20Vowel%20Strings%20in%20Ranges.java)
 # Problem Statement:
 
 You are given a  **0-indexed**  array of strings  `words`  and a 2D array of integers  `queries`.
