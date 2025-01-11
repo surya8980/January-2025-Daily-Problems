@@ -1,4 +1,4 @@
-# [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/06-01-2024/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.java)
+# [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/surya8980/January-2025-Daily-Problems/blob/main/LeetCode/06-01-2025/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.java)
 # Problem Statement:
 
 You have  `n`  boxes. You are given a binary string  `boxes`  of length  `n`, where  `boxes[i]`  is  `'0'`  if the  `ith`  box is  **empty**, and  `'1'`  if it contains  **one**  ball.
